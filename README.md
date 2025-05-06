@@ -10,8 +10,7 @@ Add realistic lip sync animation to your 3D characters using **Blender**, **Unit
 ---
 
 ## 📹 Video Tutorial
-Watch the full tutorial on YouTube: [**Lip Sync Characters in Unity (FREE)**](#)  
-*(Link coming soon)*
+Watch the full tutorial on YouTube: [**Lip Sync Characters in Unity (FREE)**]([#](https://youtu.be/zr0yyhkiwR8))  
 
 ---
 
